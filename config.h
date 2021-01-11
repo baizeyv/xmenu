@@ -8,7 +8,7 @@ static struct Config config = {
 	.selbackground_color = "#cd69af",
 	.selforeground_color = "#FFFFFF",
 	.separator_color = "#CDC7C2",
-	.border_color = "#E6E6E6",
+	.border_color = "#cd69af",
 
 	/* sizes in pixels */
 	.width_pixels = 130,        /* minimum width of a menu */
